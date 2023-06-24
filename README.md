@@ -1,5 +1,4 @@
 # *Big Data - PUC-PR*
-
 Este repositório contém projetos e materiais relacionados à disciplina de Big Data, desenvolvida em Java e python.
 
 Para a implementação em java, foram utilizados os metodos de rotinas *Map e reduce*;
